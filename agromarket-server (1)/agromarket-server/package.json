@@ -1,0 +1,19 @@
+{
+  "name": "agromarket-server",
+  "version": "1.0.0",
+  "description": "АгроМаркет API: Express + PostgreSQL",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js",
+    "db:init": "node db/seed.js"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "^0.2.17",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0",
+    "pg": "^8.13.0"
+  }
+}

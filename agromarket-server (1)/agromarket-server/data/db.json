@@ -1,0 +1,12 @@
+{
+  "products": [
+    { "id": 1, "name": "Мёд липовый", "category": "Мёд", "price": 3500, "unit": "кг", "image": "https://picsum.photos/seed/honey/400/300" },
+    { "id": 2, "name": "Молоко фермерское", "category": "Молочное", "price": 450, "unit": "л", "image": "https://picsum.photos/seed/milk/400/300" },
+    { "id": 3, "name": "Молодой сыр", "category": "Молочное", "price": 2200, "unit": "кг", "image": "https://picsum.photos/seed/cheese/400/300" },
+    { "id": 4, "name": "Яйца домашние (10 шт.)", "category": "Яйца", "price": 900, "unit": "уп.", "image": "https://picsum.photos/seed/eggs/400/300" },
+    { "id": 5, "name": "Картофель акмолинский", "category": "Овощи", "price": 250, "unit": "кг", "image": "https://picsum.photos/seed/potato/400/300" },
+    { "id": 6, "name": "Морковь", "category": "Овощи", "price": 300, "unit": "кг", "image": "https://picsum.photos/seed/carrot/400/300" },
+    { "id": 7, "name": "Пшеничная мука высшего сорта", "category": "Бакалея", "price": 1100, "unit": "кг", "image": "https://picsum.photos/seed/flour/400/300" },
+    { "id": 8, "name": "Сметана 20%", "category": "Молочное", "price": 600, "unit": "кг", "image": "https://picsum.photos/seed/cream/400/300" }
+  ]
+}
